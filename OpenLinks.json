@@ -3,7 +3,7 @@
 	"description": "Free JSON-Driven template for Astro.",
 	"url_base": "https://yoursite.com",
 	"theme": "brutalism",
-	"footer": "Made with ❤️ by <a href='https://github.com'>E10Y</a>",
+	"footer": "Made with ❤️ by <a href='https://e10y.dev'>E10Y</a>",
 	"profile":
 		{
 			"name": "OpenLinks",
@@ -15,7 +15,7 @@
 	"links": [
 		{
 			"name": "GitHub",
-			"url": "https://github.com/E10YDEV",
+			"url": "https://github.com/E10YDEV/OpenLinks",
 			"icon": "/icons/GitHub.svg"
 		},
 		{
