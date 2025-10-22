@@ -3,7 +3,7 @@
 	"description": "Free JSON-Driven template for Astro.",
 	"url_base": "https://yoursite.com",
 	"theme": "cherry",
-	"footer": "Made with ❤️ by <a href='https://e10y.dev'>AgenciAVATAR</a>",
+	"footer": "Made with ❤️ by <a href='https://e10y.dev'> AgenciAVATAR Team</a>",
 	"profile":
 		{
 			"name": "AgenciAVATAR",
