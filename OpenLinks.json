@@ -14,29 +14,24 @@
 	,
 	"links": [
 		{
-			"name": "GitHub",
+			"name": "WhatsApp",
 			"url": "https://github.com/E10YDEV/OpenLinks",
+			"icon": "/icons/Whatsapp.svg"
+		},
+		{
+			"name": "Lider de equipo",
+			"url": "https://e10y.dev",
 			"icon": "/icons/GitHub.svg"
 		},
 		{
-			"name": "Website",
-			"url": "https://e10y.dev",
-			"icon": "/icons/Web.svg"
+			"name": "Facebook",
+			"url": "#",
+			"icon": "/icons/Facebook.svg"
 		},
 		{
 			"name": "Instagram",
 			"url": "#",
 			"icon": "/icons/Instagram.svg"
-		},
-		{
-			"name": "Twitter",
-			"url": "#",
-			"icon": "/icons/X.svg"
-		},
-		{
-			"name": "Mail",
-			"url": "#",
-			"icon": "/icons/Mail.svg"
 		}
 	]
 }
